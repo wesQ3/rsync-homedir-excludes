@@ -47,11 +47,11 @@
 ## Add Game Folders here:
 #
 #/games
-#.local/share/Steam
+.local/share/Steam
 #.var/app/com.valvesoftware.Steam/.local/share/Steam
-#.steam
+.steam
 #/Steam
-#.minecraft
+.minecraft
 #.technic
 #.PlayOnLinux
 #.local/share/lutris/runners/wine/
