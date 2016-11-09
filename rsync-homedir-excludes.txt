@@ -39,8 +39,8 @@
 ## Add Game Folders here:
 #
 #/games
-#.local/share/Steam
-#.minecraft
+.local/share/Steam
+.minecraft
 #.PlayOnLinux
 
 ################################################
