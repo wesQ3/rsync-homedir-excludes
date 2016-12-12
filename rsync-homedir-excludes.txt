@@ -84,6 +84,7 @@
 ## Docker
 #.docker/machine
 #.local/share/containers
+/apps
 
 ################################################
 # These directories may definitely be excluded #
