@@ -42,6 +42,7 @@
 .local/share/Steam
 .minecraft
 #.PlayOnLinux
+/apps
 
 ################################################
 # These directories may definitely be excluded #
