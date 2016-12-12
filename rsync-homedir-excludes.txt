@@ -201,6 +201,7 @@ Thumbs.db
 #Firefox-specific (see also Profile folder):
 
 .mozilla/firefox/*/Cache
+.mozilla/firefox/*/storage/**/cache
 # in case Fx crashes dumps will be stored in this
 .mozilla/firefox/*/minidumps
 # session-specific 
