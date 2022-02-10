@@ -43,6 +43,7 @@
 #
 ## Ruby gems
 #.rvm
+.zoom
 #
 ## Add Game Folders here:
 #
