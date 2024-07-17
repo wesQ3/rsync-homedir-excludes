@@ -43,6 +43,9 @@
 #
 ## Ruby gems
 #.rvm
+## Go packages
+/go
+
 .zoom
 #
 ## Add Game Folders here:
